@@ -1,11 +1,23 @@
-# User-task-manager
-Public task management system
+# User Task Manager
 
-Allows users to create or log in to their account and view all their tasks as well as everybody else's. Management includes logging, tracking and editing tasks and also generating relevant reports. 
-tasks consist of; 
-- Name of person to complete 
-- Title of task
-- Description
-- Assigned date
-- Due date
-- Completion status
+A public task management system for tracking and managing user tasks.
+
+## Files
+
+- **task_manager.py**  
+  Allows users to create or log in to their account, view and manage tasks, and generate reports. Features include:
+  - Registering users
+  - Adding, viewing, and editing tasks
+  - Generating task and user reports
+  - Admin statistics
+
+## Skills Demonstrated
+
+- User authentication and management
+- File I/O for persistent storage
+- Task tracking and reporting
+- Menu-driven CLI application
+
+## Usage
+
+Run the script and follow the menu prompts to manage users and tasks.

@@ -1,6 +1,11 @@
 # Email Manager
 
-A Python project that allows users to view an email or all unread emails. Once read, the status of the email is updated to "read". This project demonstrates my proficiency in Python and my ability to manage, manipulate, and present data in a user-friendly manner.
+A Python project that allows users to view and manage emails via the command line.
+
+## Files
+
+- **email.py**  
+  Implements an email simulator with features to view individual emails, view unread emails, and mark emails as read.
 
 ## Features
 
@@ -11,16 +16,11 @@ A Python project that allows users to view an email or all unread emails. Once r
 
 ## Skills Demonstrated
 
-- **Python Programming:** All logic is implemented in Python, making use of classes, file handling, and data manipulation.
-- **Object-Oriented Design:** Structure and organization using classes for better code maintainability and scalability.
-- **Data Management:** Efficient handling of email statuses (read/unread) and updating records accordingly.
-- **Problem Solving:** Implemented logic to filter and update data based on user actions.
-- **User Experience:** Designed with simplicity and usability in mind, making it easy to interact with emails from the command line.
-- **Version Control:** Project maintained with Git and GitHub for collaboration and source control.
+- Python programming (classes, file handling, data manipulation)
+- Object-oriented design
+- Data management (read/unread status)
+- User experience via CLI
 
-## Getting Started
+## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Eesa2004/email_manager.git
-   cd email_manager
+Run `email.py` and follow the menu prompts to interact with the email system.
